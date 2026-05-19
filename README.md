@@ -158,36 +158,15 @@ The following improvements can be added in future versions:
 
 Add your signup page screenshot here.
 
-Example:
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/0829d671-9ef3-4cdd-937b-21e523f0497c" />
 
-```bash
-screenshots/signup-page.png
-```
 
 ## Login Page
 
 Add your login page screenshot here.
 
-Example:
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/35ea7e54-1207-40c8-818d-9cafb6c90ffb" />
 
-```bash
-screenshots/login-page.png
-```
-
----
-
-# Sample Screenshot Section
-
-```md
-![Signup Page](screenshots/signup-page.png)
-
-<img width="1900" height="914" alt="image" src="https://github.com/user-attachments/assets/eb9b45c0-4c75-4295-8225-7dee8c0feb35" />
-
-![Login Page](screenshots/login-page.png)
-
-<img width="1915" height="909" alt="image" src="https://github.com/user-attachments/assets/7938f9bc-6ac3-4709-be76-4d54061d7725" />
-
-```
 
 ---
 
