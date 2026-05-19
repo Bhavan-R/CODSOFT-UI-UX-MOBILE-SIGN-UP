@@ -75,13 +75,13 @@ project-folder/
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mobile-signup-flow.git
+git clone https://github.com/Bhavan-R/CODSOFT-UI-UX-MOBILE-SIGN-UP.git
 ```
 
 ## Step 2: Open the Project Folder
 
 ```bash
-cd mobile-signup-flow
+cd CODSOFT-UI-UX-MOBILE-SIGN-UP
 ```
 
 ## Step 3: Run the Project
@@ -113,7 +113,7 @@ git commit -m "Initial Commit"
 ## Connect GitHub Repository
 
 ```bash
-git remote add origin https://github.com/your-username/mobile-signup-flow.git
+git remote add origin https://github.com/Bhavan-R/CODSOFT-UI-UX-MOBILE-SIGN-UP.git
 ```
 
 ## Push to GitHub
